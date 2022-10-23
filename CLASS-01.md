@@ -112,3 +112,6 @@ The only work of `Creation Phase` is create something in `Memory Component` and 
 > 4th line says to to store **"Jihad"** in the variable **b**.
 > 
 > That means, In 3rd line, The value of **b** was till undefined. Now in 4th line, It has defined and the value of **b** is stored in `Memory Component` as **"Jihad"**. 
+***
+
+After completing `Creation Phase` & `Execution Phase`, **js** will remove the `Execution Context`. 
