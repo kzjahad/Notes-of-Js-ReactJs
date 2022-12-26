@@ -115,5 +115,5 @@ If there are **Parameters** in **Function**, The Value of the **Parameters** sto
 ```
 >***
 > ## Call-Back Function :-
-> The **Function** which being passed as **Argument** and received as **Parameter** by **First-Class Function** is call a **Call-Back Function**.
+> The **Function** which being passed as **Argument** and received as **Parameter** by **First-Class Function** is called a **Call-Back Function**.
 > ***
